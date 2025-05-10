@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Sophia Chung</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://sophiaachungg.github.io/posts/</link>
     <description>Recent content in Posts on Sophia Chung</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sophiaachungg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sleep Disorder Predictions</title>
-      <link>http://localhost:1313/posts/sleep-disorder-predictions/</link>
+      <link>https://sophiaachungg.github.io/posts/sleep-disorder-predictions/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/sleep-disorder-predictions/</guid>
+      <guid>https://sophiaachungg.github.io/posts/sleep-disorder-predictions/</guid>
       <description>&lt;p&gt;A personal project to predict sleep disorders (sleep apnea, insomnia, or no sleep disorder) based on lifestyle and health factors using machine learning techniques. Uses a dataset of patient data for a complete data science/machine learning lifecycle, including Jupyter Notebooks detailing exploratory data analysis, feature selection, modeling, and app deployment via Streamlit.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/sophiaachungg/sleep-disorder-predictions&#34;&gt;View on GitHub&lt;/a&gt;&lt;/p&gt;</description>
     </item>
